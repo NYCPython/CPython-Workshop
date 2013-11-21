@@ -19,6 +19,12 @@ What You Need
 .. _Vagrant: http://downloads.vagrantup.com/
 .. _VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
+.. note::
+
+    PuTTY users may need to follow the directions on `Stack Overflow`_.
+
+.. _Stack Overflow: http://stackoverflow.com/a/9924122/978961
+
 Setup
 +++++
 
