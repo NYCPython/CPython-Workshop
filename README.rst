@@ -13,7 +13,9 @@ What You Need
 
 - VirtualBox_
 - Vagrant_ (`docs <http://docs.vagrantup.com/v2/>`_)
+- PuTTY_ or another SSH client (Windows users only)
 
+.. _PuTTY: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 .. _Vagrant: http://downloads.vagrantup.com/
 .. _VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
